@@ -1,32 +1,54 @@
-<h1 align="center">Hi 👋, I'm Nipun Gupta</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 👋, I'm Nipun Gupta! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>A passionate developer from India</em></p>
 
-- 🔭 I'm currently working on **[Gravity](https://github.com/NipunGupta1/gravity)**
-- 🌱 I'm currently learning **Astro, AWS, DevOps**
-- 👯 I'm looking to collaborate on **[FileVault](https://github.com/NipunGupta1/fileVault.git)**
-- 🤝 I'm looking for help with **[SiteNotes](https://github.com/NipunGupta1/Site-notes)**
-- 👨‍💻 All of my projects are available at **[my portfolio](https://portfolio-zeta-one-kz73ccz1cf.vercel.app/)**
-- 💬 Ask me about **React, TypeScript**
-- 📫 How to reach me **[mathsng90@gmail.com](mailto:mathsng90@gmail.com)**
+[![website](https://img.shields.io/badge/Portfolio-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://portfolio-zeta-one-kz73ccz1cf.vercel.app/)](https://portfolio-zeta-one-kz73ccz1cf.vercel.app/)
+![GitHub followers](https://img.shields.io/github/followers/NipunGupta1?label=Follow&style=social)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:mathsng90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-<a href="https://portfolio-zeta-one-kz73ccz1cf.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
+### 📫 Reach me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-</p>
+* 🔭 I'm currently working on **[Gravity](https://github.com/NipunGupta1/gravity)**
+* 🌱 I'm currently learning **Astro, AWS, DevOps**
+* 👯 I'm looking to collaborate on **[FileVault](https://github.com/NipunGupta1/fileVault.git)**
+* 🤝 I'm looking for help with **[SiteNotes](https://github.com/NipunGupta1/Site-notes)**
+* 👨‍💻 All of my projects are available at **[my portfolio](https://portfolio-zeta-one-kz73ccz1cf.vercel.app/)**
+* 💬 Ask me about **React, TypeScript**
+* 📫 How to reach me: **[mathsng90@gmail.com](mailto:mathsng90@gmail.com)**
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=NipunGupta1&show_icons=true&theme=dark" alt="NipunGupta1" width="450"/>
-</p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const nipun = {
+  name: "Nipun Gupta",
+  pronouns: ["he", "him"],
+  languages: ["JavaScript", "TypeScript"],
+  askMeAbout: [
+    "web development",
+    "React",
+    "TypeScript"
+  ],
+
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Astro"],
+    },
+
+    devOps: {
+      tools: ["AWS", "Git"],
+    },
+  },
+
+  currentlyWorkingOn: "Gravity",
+  currentlyLearning: ["Astro", "AWS", "DevOps"],
+  lookingToCollaborateOn: "FileVault",
+  lookingForHelpWith: "SiteNotes",
+
+  funFact: "Always exploring something new to build"
+};
+```
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+
+**These Readme stats are generated using GitHub action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
