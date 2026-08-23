@@ -51,4 +51,5 @@ const nipun = {
 
 ---
 
-**These Readme stats are generated using GitHub action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+- name: NipunGupta1
+  uses: anmol098/waka-readme-stats@v5
