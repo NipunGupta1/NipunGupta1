@@ -54,4 +54,4 @@ const nipun = {
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NipunGupta1&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=NipunGupta1&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=NipunGupta1&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=NipunGupta1&theme=radical&no-frame=true)
