@@ -51,8 +51,6 @@ const nipun = {
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NipunGupta1&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NipunGupta1&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NipunGupta1&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NipunGupta1&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=NipunGupta1&layout=compact&theme=radical)
